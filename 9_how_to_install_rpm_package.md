@@ -1,0 +1,1 @@
+To install an RPM package on your Ubuntu machine, follow these steps:
